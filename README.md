@@ -25,4 +25,3 @@ This dataset is a slightly modified version of the dataset provided in the StatL
 ## Relevant Papers:
 
 Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
-[Web Link]
